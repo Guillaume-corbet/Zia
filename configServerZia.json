@@ -1,0 +1,14 @@
+{
+    "host": "127.0.0.1",
+    "port_HTTP": 8080,
+    "port_HTTPS": 8081,
+    "max_request": 20,
+    "serverType": "https",
+    "modules": [
+        {
+            "name": "php",
+            "active": true,
+            "nameDLL": "libphp"
+        }
+    ]
+}
